@@ -1,0 +1,36 @@
+.OffersSection{
+}
+.OffersSection h1{
+    color: var(--orangeColor);
+}
+
+.Offer {
+  padding: 50px 20px;
+}
+
+.Offer.reverse {
+    flex-direction: row-reverse!important;
+  }
+
+.Offer .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Offer .text h3{
+  color: var(--orangeColor);
+}
+
+.Offer .text .btn{
+    width: fit-content;
+    padding: 10px 50px;
+    color: var(--orangeColor);
+    background-color: var(--bs-gray-100);
+}
+
+.Offer .image .img-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border: 1px solid var(--orangeColor);
+}

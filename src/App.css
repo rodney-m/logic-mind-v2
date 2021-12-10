@@ -1,0 +1,10 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+    --orangeColor: #FF5722;
+}
+
+@import url(./components/Particles.css);
+@import url(./components/ServicesSection/servicesSection.css);
+@import url(./components/Showcase/Showcase.css);
+@import url(./components/OffersSection/OffersSection.css);

@@ -1,0 +1,4 @@
+.tsparticles-canvas-el{
+    background: linear-gradient(to right, rgba(0,0,0,.5), rgba(0,0,0,.5)),url(../assets/header-bg.jpg) no-repeat center center;
+    background-size: cover;
+}
