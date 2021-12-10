@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/logic-mind-v2/static/css/main.6539d2ce.chunk.css",
+    "main.js": "/logic-mind-v2/static/js/main.7022056c.chunk.js",
+    "main.js.map": "/logic-mind-v2/static/js/main.7022056c.chunk.js.map",
+    "runtime-main.js": "/logic-mind-v2/static/js/runtime-main.3d220a76.js",
+    "runtime-main.js.map": "/logic-mind-v2/static/js/runtime-main.3d220a76.js.map",
+    "static/js/2.65d31ec9.chunk.js": "/logic-mind-v2/static/js/2.65d31ec9.chunk.js",
+    "static/js/2.65d31ec9.chunk.js.map": "/logic-mind-v2/static/js/2.65d31ec9.chunk.js.map",
+    "index.html": "/logic-mind-v2/index.html",
+    "static/css/main.6539d2ce.chunk.css.map": "/logic-mind-v2/static/css/main.6539d2ce.chunk.css.map",
+    "static/js/2.65d31ec9.chunk.js.LICENSE.txt": "/logic-mind-v2/static/js/2.65d31ec9.chunk.js.LICENSE.txt",
+    "static/media/cloud-solutions-service.588d1c4c.jpg": "/logic-mind-v2/static/media/cloud-solutions-service.588d1c4c.jpg",
+    "static/media/App.css": "/logic-mind-v2/static/media/header-bg.2f28a065.jpg",
+    "static/media/infrastructure-service.cc56e365.jpg": "/logic-mind-v2/static/media/infrastructure-service.cc56e365.jpg",
+    "static/media/offer-managed-service.0122b1d2.jpg": "/logic-mind-v2/static/media/offer-managed-service.0122b1d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d220a76.js",
+    "static/js/2.65d31ec9.chunk.js",
+    "static/css/main.6539d2ce.chunk.css",
+    "static/js/main.7022056c.chunk.js"
+  ]
+}
