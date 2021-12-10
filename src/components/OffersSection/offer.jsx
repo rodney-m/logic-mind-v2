@@ -1,6 +1,5 @@
 import React from 'react'
 import { BsArrowRightCircle } from "react-icons/bs";
-import ManagedServ from '../../assets/offer-managed-service.jpg'
 
 function Offer({offerItem}) {
     return (

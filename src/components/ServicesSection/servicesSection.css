@@ -29,11 +29,14 @@
 @keyframes zoom {
     0%{
         transform: scale(1);
+        color: var(--bs-gray-900);
     }
     50%{
         transform: scale(1.1);
+        color: var(--orangeColor);
     }
     100%{
         transform: scale(1);
+        color: var(--bs-gray-900);
     }
 }

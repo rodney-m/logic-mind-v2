@@ -1,0 +1,14 @@
+.Footer{
+    background-color: var(--bs-gray-900);
+    color: var(--bs-gray-300);
+    border-top: 2px solid var(--bs-gray-300);
+}
+.Footer .footer-logo{
+    height: 40px;
+    max-width: 100%;
+}
+.Footer .footer-btn{
+   background-color: var(--orangeColor);
+   color: var(--bs-gray-300);
+   width: 100%;
+}
