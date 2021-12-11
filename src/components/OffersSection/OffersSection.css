@@ -28,6 +28,10 @@
     background-color: var(--bs-gray-100);
 }
 
+.Offer .text .btn:hover{
+  background-color: var(--bs-gray-200);
+}
+
 .Offer .image .img-container img{
     width: 100%;
     height: 100%;

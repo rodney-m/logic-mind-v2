@@ -10,10 +10,10 @@ const Footer = () => {
   return (
     <div className="Footer p-5">
       <div className="container row">
-        <div className="col-md-3">
+        <div className="col-md-3" my-3>
           <img className="footer-logo" src={Logo} alt="logo" />
         </div>
-        <div className="col-md-3">
+        <div className="col-md-3 my-3">
           <h3 className="text-center">Zimbabwe</h3>
 
           <p>
@@ -44,7 +44,7 @@ const Footer = () => {
             <RiMailSendFill /> info@logikmind.com
           </p>
         </div>
-        <div className="col-md-3">
+        <div className="col-md-3 my-3">
           <p className="text-center">
             <HiMail /> Stay upto date with the latest from Logikmind
           </p>

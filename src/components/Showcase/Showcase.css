@@ -16,6 +16,7 @@
 .Showcase .content #signUpForm {
     display: flex;
     justify-content: flex-start;
+    margin-right: 1rem;
 }
 
 
