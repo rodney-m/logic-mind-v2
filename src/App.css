@@ -12,3 +12,6 @@ body{
 @import url(./components/OffersSection/OffersSection.css);
 @import url(./components/Footer/footer.css);
 @import url(./components/Navbar/navbar.css);
+
+@import url(./components/AboutHero/hero.css);
+@import url(./components/AboutBody/about-body.css);

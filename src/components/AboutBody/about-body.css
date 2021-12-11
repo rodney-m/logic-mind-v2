@@ -1,0 +1,24 @@
+
+
+
+.SectionTwo .icon{
+    border: 1px solid var(--orangeColor);
+    width: fit-content;
+    padding: 30px;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    background-color: white;
+}
+
+.SectionTwo .box-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.SectionTwo .box{
+    width: 300px;
+    margin: 30px 10px;
+}
+.SectionTwo .box .text h3{
+    color: var(--orangeColor);
+}
