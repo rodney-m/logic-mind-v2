@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/logic-mind-v2/static/css/main.f532079f.chunk.css",
-    "main.js": "/logic-mind-v2/static/js/main.aaef6624.chunk.js",
-    "main.js.map": "/logic-mind-v2/static/js/main.aaef6624.chunk.js.map",
+    "main.css": "/logic-mind-v2/static/css/main.de825674.chunk.css",
+    "main.js": "/logic-mind-v2/static/js/main.149e2ba0.chunk.js",
+    "main.js.map": "/logic-mind-v2/static/js/main.149e2ba0.chunk.js.map",
     "runtime-main.js": "/logic-mind-v2/static/js/runtime-main.3d220a76.js",
     "runtime-main.js.map": "/logic-mind-v2/static/js/runtime-main.3d220a76.js.map",
-    "static/js/2.7bf38dbc.chunk.js": "/logic-mind-v2/static/js/2.7bf38dbc.chunk.js",
-    "static/js/2.7bf38dbc.chunk.js.map": "/logic-mind-v2/static/js/2.7bf38dbc.chunk.js.map",
+    "static/js/2.5c19b49f.chunk.js": "/logic-mind-v2/static/js/2.5c19b49f.chunk.js",
+    "static/js/2.5c19b49f.chunk.js.map": "/logic-mind-v2/static/js/2.5c19b49f.chunk.js.map",
     "index.html": "/logic-mind-v2/index.html",
-    "static/css/main.f532079f.chunk.css.map": "/logic-mind-v2/static/css/main.f532079f.chunk.css.map",
-    "static/js/2.7bf38dbc.chunk.js.LICENSE.txt": "/logic-mind-v2/static/js/2.7bf38dbc.chunk.js.LICENSE.txt",
+    "static/css/main.de825674.chunk.css.map": "/logic-mind-v2/static/css/main.de825674.chunk.css.map",
+    "static/js/2.5c19b49f.chunk.js.LICENSE.txt": "/logic-mind-v2/static/js/2.5c19b49f.chunk.js.LICENSE.txt",
     "static/media/cloud-solutions-service.588d1c4c.jpg": "/logic-mind-v2/static/media/cloud-solutions-service.588d1c4c.jpg",
     "static/media/App.css": "/logic-mind-v2/static/media/header-bg.2f28a065.jpg",
     "static/media/infrastructure-service.cc56e365.jpg": "/logic-mind-v2/static/media/infrastructure-service.cc56e365.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3d220a76.js",
-    "static/js/2.7bf38dbc.chunk.js",
-    "static/css/main.f532079f.chunk.css",
-    "static/js/main.aaef6624.chunk.js"
+    "static/js/2.5c19b49f.chunk.js",
+    "static/css/main.de825674.chunk.css",
+    "static/js/main.149e2ba0.chunk.js"
   ]
 }
