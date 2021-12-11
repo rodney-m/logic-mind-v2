@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/logic-mind-v2/static/css/main.18ce4796.chunk.css",
+    "main.css": "/logic-mind-v2/static/css/main.a8c9e504.chunk.css",
     "main.js": "/logic-mind-v2/static/js/main.57d97b59.chunk.js",
     "main.js.map": "/logic-mind-v2/static/js/main.57d97b59.chunk.js.map",
     "runtime-main.js": "/logic-mind-v2/static/js/runtime-main.3d220a76.js",
@@ -8,7 +8,7 @@
     "static/js/2.e3a495ee.chunk.js": "/logic-mind-v2/static/js/2.e3a495ee.chunk.js",
     "static/js/2.e3a495ee.chunk.js.map": "/logic-mind-v2/static/js/2.e3a495ee.chunk.js.map",
     "index.html": "/logic-mind-v2/index.html",
-    "static/css/main.18ce4796.chunk.css.map": "/logic-mind-v2/static/css/main.18ce4796.chunk.css.map",
+    "static/css/main.a8c9e504.chunk.css.map": "/logic-mind-v2/static/css/main.a8c9e504.chunk.css.map",
     "static/js/2.e3a495ee.chunk.js.LICENSE.txt": "/logic-mind-v2/static/js/2.e3a495ee.chunk.js.LICENSE.txt",
     "static/media/about-section-1.bbab4454.jpg": "/logic-mind-v2/static/media/about-section-1.bbab4454.jpg",
     "static/media/cloud-solutions-service.588d1c4c.jpg": "/logic-mind-v2/static/media/cloud-solutions-service.588d1c4c.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3d220a76.js",
     "static/js/2.e3a495ee.chunk.js",
-    "static/css/main.18ce4796.chunk.css",
+    "static/css/main.a8c9e504.chunk.css",
     "static/js/main.57d97b59.chunk.js"
   ]
 }
