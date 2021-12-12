@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+.ManagedHero{
+    
+}
+.ManagedHero h1{
+    color: var(--orangeColor);
+    padding: 3rem;
+}
+
+.services-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ManagedHero .service-offer , 
+.Outsourcing .service-offer{
+    margin: 1rem 2rem;
+    max-width: 250px;
+    min-height: 125px;
+}
+
+.Outsourcing .service-offer .text p{
+    font-size: .9rem;
+}
+
+
+.ManagedHero .service-offer .icon, 
+.Outsourcing .service-offer .icon{
+    border: 1px solid var(--bs-gray-300);
+    color: var(--orangeColor);
+    margin-left: -52px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.AssessmentCTA {
+    text-align: center;
+}
+.AssessmentCTA  h3{
+    color: var(--orangeColor);
+    text-transform: capitalize;
+}
+.AssessmentCTA  p{
+    color: var(--bs-gray-500);
+    font-size: 1rem;
+    
+}
+.AssessmentCTA  p.quote::before, .AssessmentCTA  p.quote::after {
+    content: ' " ';
+    font-size: 30px;
+    color: var(--orangeColor);
+    font-family: 'Secular One', sans-serif;
+}
+
+.AssessmentCTA a.btn::after{
+    content: ' >';
+    color: var(--orangeColor);
+}
+
+.HelpDesk h1 {
+    color: var(--orangeColor);
+}
+
+.HelpDesk .content > div:last-child{
+    background-color: var(--orangeColor);
+    color: var(--bs-gray-200);
+}
+.HelpDesk .content > div:first-child{
+    background-color: var(--bs-gray-100);
+}
+
+.HelpDesk .row{
+    --bs-gutter-x: 0!important;
+}
+

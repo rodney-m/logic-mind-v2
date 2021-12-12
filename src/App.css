@@ -15,3 +15,5 @@ body{
 
 @import url(./components/AboutHero/hero.css);
 @import url(./components/AboutBody/about-body.css);
+
+@import url(./components/ServicesPages/services-page.css)

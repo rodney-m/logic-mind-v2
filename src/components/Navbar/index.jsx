@@ -26,10 +26,16 @@ const Navbar = () => {
                         <Link class="nav-link dropdown-toggle" to="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</Link>
                         <ul className="dropdown-menu">
                             <li>
-                                <Link class="dropdown-item" to="#">action</Link>                                
+                                <Link class="dropdown-item" to="/services/managed-ict-services">Managed ICT Services</Link>                                
                             </li>
                             <li>
-                                <Link class="dropdown-item" to="#">another action</Link>                                
+                                <Link class="dropdown-item" to="/services/technology-solutions">Technology Solutions</Link>                                
+                            </li>
+                            <li>
+                                <Link class="dropdown-item" to="services/cloud-solutions">Cloud Solutions</Link>                                
+                            </li>
+                            <li>
+                                <Link class="dropdown-item" to="services/telecom-solutions">Telecom Solutions</Link>                                
                             </li>
                         </ul>
                     </li>
