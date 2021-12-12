@@ -22,3 +22,25 @@
 .SectionTwo .box .text h3{
     color: var(--orangeColor);
 }
+
+
+.SectionThree{
+    padding: 2rem;
+}
+.SectionThree h1{
+   color: var(--orangeColor);
+}
+
+
+.partners-logos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.partners-logos img{
+    object-fit: contain;
+    max-width: 100%;
+}
+.partners-logos .logo{
+    margin: 8px;
+}
