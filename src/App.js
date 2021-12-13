@@ -8,8 +8,9 @@ import Navbar from './components/Navbar'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import Home from './pages/Home'
-import Services from './pages/Services'
+import TechnologySolutions from './pages/Services/technology-solutions'
 import ManagedICTServices from './pages/Services/managed-ict-services';
+import CloudSolutions from './pages/Services/cloud-solutions';
 
 
 const App = () => {
@@ -21,9 +22,9 @@ const App = () => {
           <Route path='/about'  element={<About />} />
           <Route path='/contact'  element={<Contact />} />
           <Route path='/services/managed-ict-services'  element={<ManagedICTServices />} />
-          <Route path='/services/technology-solutions'  element={<Services />} />
-          <Route path='/services/cloud-solutions'  element={<Services />} />
-          <Route path='/services/telecom-solutions'  element={<Services />} />
+          <Route path='/services/technology-solutions'  element={<TechnologySolutions />} />
+          <Route path='/services/cloud-solutions'  element={<CloudSolutions />} />
+          <Route path='/services/telecom-solutions'  element={<TechnologySolutions />} />
       </Routes>
       <Footer/>
 

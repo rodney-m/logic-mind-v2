@@ -30,7 +30,7 @@ const Footer = () => {
             <RiMailSendFill /> info@logikmind.com
           </p>
         </div>
-        <div className="col-md-3">
+        <div className="col-md-3 my-3">
           <h3 className="text-center">Zambia</h3>
 
           <p>
