@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/logic-mind-v2/static/css/main.73097466.chunk.css",
-    "main.js": "/logic-mind-v2/static/js/main.c58b3602.chunk.js",
-    "main.js.map": "/logic-mind-v2/static/js/main.c58b3602.chunk.js.map",
-    "runtime-main.js": "/logic-mind-v2/static/js/runtime-main.3d220a76.js",
-    "runtime-main.js.map": "/logic-mind-v2/static/js/runtime-main.3d220a76.js.map",
-    "static/js/2.1f987349.chunk.js": "/logic-mind-v2/static/js/2.1f987349.chunk.js",
-    "static/js/2.1f987349.chunk.js.map": "/logic-mind-v2/static/js/2.1f987349.chunk.js.map",
+    "main.css": "/logic-mind-v2/static/css/main.5767ba5e.chunk.css",
+    "main.js": "/logic-mind-v2/static/js/main.8e8b27b2.chunk.js",
+    "main.js.map": "/logic-mind-v2/static/js/main.8e8b27b2.chunk.js.map",
+    "runtime-main.js": "/logic-mind-v2/static/js/runtime-main.676c7333.js",
+    "runtime-main.js.map": "/logic-mind-v2/static/js/runtime-main.676c7333.js.map",
+    "static/js/2.c0271102.chunk.js": "/logic-mind-v2/static/js/2.c0271102.chunk.js",
+    "static/js/2.c0271102.chunk.js.map": "/logic-mind-v2/static/js/2.c0271102.chunk.js.map",
     "index.html": "/logic-mind-v2/index.html",
-    "static/css/main.73097466.chunk.css.map": "/logic-mind-v2/static/css/main.73097466.chunk.css.map",
-    "static/js/2.1f987349.chunk.js.LICENSE.txt": "/logic-mind-v2/static/js/2.1f987349.chunk.js.LICENSE.txt",
+    "static/css/main.5767ba5e.chunk.css.map": "/logic-mind-v2/static/css/main.5767ba5e.chunk.css.map",
+    "static/js/2.c0271102.chunk.js.LICENSE.txt": "/logic-mind-v2/static/js/2.c0271102.chunk.js.LICENSE.txt",
     "static/media/App.css": "/logic-mind-v2/static/media/cloud-bg.f143ac16.jpg",
     "static/media/Helpdesk.2b88f72c.png": "/logic-mind-v2/static/media/Helpdesk.2b88f72c.png",
     "static/media/Microsoft_Genuine_Logo.1469a628.png": "/logic-mind-v2/static/media/Microsoft_Genuine_Logo.1469a628.png",
@@ -21,9 +21,9 @@
     "static/media/project-management.9e6e4d6e.jpg": "/logic-mind-v2/static/media/project-management.9e6e4d6e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d220a76.js",
-    "static/js/2.1f987349.chunk.js",
-    "static/css/main.73097466.chunk.css",
-    "static/js/main.c58b3602.chunk.js"
+    "static/js/runtime-main.676c7333.js",
+    "static/js/2.c0271102.chunk.js",
+    "static/css/main.5767ba5e.chunk.css",
+    "static/js/main.8e8b27b2.chunk.js"
   ]
 }
