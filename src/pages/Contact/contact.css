@@ -1,0 +1,12 @@
+.Contact{
+    background: linear-gradient(to right, rgba(255, 86, 34, 0.5), rgba(255, 86, 34, 0.5) ) ,
+    url(../../assets/cloud-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.Contact .card{
+    color: var(--bs-gray-900);
+}
