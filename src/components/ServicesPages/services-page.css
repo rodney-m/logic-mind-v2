@@ -162,3 +162,40 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .CloudOptions h1{
     text-align: center;
 }
+
+
+.CloudPlansBusiness .box, .CloudEnterprise .box{
+    width: 300px;
+    margin: 30px 10px;
+}
+
+.CloudPlansEnterprise .box, .CloudEnterprise .box{
+    width: 300px;
+    margin: 30px 10px;
+}
+
+.CloudPlansBusiness .box h1.price, .CloudPlansEnterprise .box h1.price{
+    color: var(--orangeColor);
+    position: relative;
+}
+
+.CloudPlansBusiness .box h1.price::before, .CloudPlansEnterprise .box h1.price::before{
+    content: '$USD' ;
+    font-size: 1rem;
+    color: var(--bs-gray-900);
+}
+
+.CloudPlansBusiness .box h1.price::after, .CloudPlansEnterprise .box h1.price::after{
+    content: '/user/month' ;
+    font-size: 1rem;
+    color: var(--bs-gray-900);
+}
+
+
+.CloudPlansBusiness .box .text-body .available, .CloudPlansEnterprise .box .text-body .available{
+    color: green!important;
+}
+
+.CloudPlansBusiness .box .text-body .icon, .CloudPlansEnterprise .box .text-body .icon{
+    color: var(--orangeColor);
+}

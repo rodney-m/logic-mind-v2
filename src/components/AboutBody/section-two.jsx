@@ -23,7 +23,7 @@ const SectionTwo = () => {
 
   return (
     <div className="SectionTwo ">
-      <div className="container box-container px-4">
+      <div className="container box-container px-4"> 
           {services.map((item) => {
             return (
               <div className="box text-center d-flex flex-column align-items-center col-md-4 shadow-sm p-2">

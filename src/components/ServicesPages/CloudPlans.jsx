@@ -1,4 +1,6 @@
 import React from "react";
+import CloudPlansBusiness from "./CloudPlansBusiness";
+import CloudPlansEnterprise from "./CloudPlansEnterprise";
 
 const CloudPlans = () => {
   return (
@@ -43,7 +45,7 @@ const CloudPlans = () => {
               aria-labelledby="nav-home-tab"
             >
               
-
+                <CloudPlansBusiness />
 
             </div>
             <div
@@ -52,7 +54,7 @@ const CloudPlans = () => {
               role="tabpanel"
               aria-labelledby="nav-profile-tab"
             >
-              ...
+              <CloudPlansEnterprise />
             </div>
             
           </div>
