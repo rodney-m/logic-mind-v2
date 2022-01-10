@@ -1,5 +1,5 @@
 .tsparticles-canvas-el{
-    background: linear-gradient(to right, rgba(0,0,0,.5), rgba(0,0,0,.5)),url(../assets/cloud-bg.jpg) no-repeat center center;
+    background: linear-gradient(to right, rgba(255, 86, 34, 0.5), rgba(255, 86, 34, 0.5) ) ,url(../assets/cloud-bg.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 }
