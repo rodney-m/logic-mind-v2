@@ -2,15 +2,16 @@
     position: absolute;
     top: 0;
     left: 0;
-}
-
-.Showcase .content{
     z-index: 5;
     position: absolute;
     top: 50%;
     left: 30px;
     transform: translateY(-50%);
     color: #fff;
+}
+
+.Showcase .content .text-container p{
+    font-size: 1.2rem;
 }
 
 .Showcase .content #signUpForm {
