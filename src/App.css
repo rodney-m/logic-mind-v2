@@ -19,3 +19,5 @@ body{
 @import url(./components/ServicesPages/services-page.css);
 
 @import url(./pages/Contact/contact.css);
+
+@import url(./pages/PageNotFound/pagenotfound.css);

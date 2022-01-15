@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar'
 import About from './pages/About'
 import Contact from './pages/Contact'
+import PageNotFound from './pages/PageNotFound'
 import Home from './pages/Home'
 import TechnologySolutions from './pages/Services/technology-solutions'
 import ManagedICTServices from './pages/Services/managed-ict-services';
@@ -25,6 +26,7 @@ const App = () => {
           <Route path='/services/technology-solutions'  element={<TechnologySolutions />} />
           <Route path='/services/cloud-solutions'  element={<CloudSolutions />} />
           <Route path='/services/telecom-solutions'  element={<TechnologySolutions />} />
+          <Route path='*'  element={<PageNotFound/>} />
       </Routes>
       <Footer/>
 

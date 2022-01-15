@@ -1,0 +1,21 @@
+.PageNotFound{
+    min-height: 70vh;
+    background: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4) ),url(../../assets/404.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: var(--bs-gray-100);
+    text-align: center;
+}
+.PageNotFound .text-container{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.PageNotFound .text-container p a{
+    color: var(--orangeColor);
+    text-decoration: none;
+}
